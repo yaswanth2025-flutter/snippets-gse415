@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaswanth2025-flutter.github.io/snippets-gse415/sitemap.xml
